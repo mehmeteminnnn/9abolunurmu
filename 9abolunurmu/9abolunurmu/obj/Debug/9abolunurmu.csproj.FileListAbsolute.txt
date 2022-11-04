@@ -1,0 +1,11 @@
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\bin\Debug\9abolunurmu.exe.config
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\bin\Debug\9abolunurmu.exe
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\bin\Debug\9abolunurmu.pdb
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\obj\Debug\9abolunurmu.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\obj\Debug\9abolunurmu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\obj\Debug\_9abolunurmu.Form1.resources
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\obj\Debug\_9abolunurmu.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\obj\Debug\9abolunurmu.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\obj\Debug\9abolunurmu.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\obj\Debug\9abolunurmu.exe
+C:\Users\mhmtm\Desktop\9abolunurmu\9abolunurmu\obj\Debug\9abolunurmu.pdb
